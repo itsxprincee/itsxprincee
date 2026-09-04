@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4c1d95,100:7c3aed&height=220&section=header&text=PRINCE%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20BCA%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:7c3aed&height=230&section=header&text=PRINCE%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20BCA%20Student&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Software;Always+Learning%2C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Developer;Full+Stack+Developer;Python+Developer;Backend+Developer;AI%2FML+Enthusiast;Building+Real-World+Applications;Learning+%7C+Building+%7C+Improving" />
 
 <br><br>
 
@@ -17,9 +17,11 @@
 <a href="https://www.linkedin.com/in/itsxprincee">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:princepvtmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/itsxprincee">
 <img src="https://img.shields.io/badge/GitHub-itsxprincee-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -34,15 +36,24 @@
 
 ## ABOUT
 
-I am a **BCA student and software developer** focused on building practical, scalable and user-oriented software.
+I am a **BCA student and software developer** based in Bengaluru, India, focused on building practical and user-oriented software.
 
-My primary interests are **software engineering, full-stack development, backend systems, Python, AI/ML and product engineering**.
+My main areas of interest include **full-stack development, backend engineering, Python, databases, AI/ML and product engineering**.
 
-I enjoy turning ideas into working applications — from designing interfaces and REST APIs to database architecture, authentication, recommendation systems and third-party API integrations.
+I enjoy taking ideas from concept to implementation — designing responsive interfaces, building REST APIs, working with databases, implementing authentication and integrating real-world services.
 
-Currently focused on strengthening my foundations in **Data Structures & Algorithms, Python, AI/ML, backend engineering, system design and cybersecurity**.
+Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Python, backend engineering, AI/ML, system design and cybersecurity** while building real-world projects.
 
-**Open To:** Software Development Internships • Full Stack Roles • Backend Roles • AI/ML Opportunities • Product Engineering
+### What I Work On
+
+- Full-Stack Web Applications
+- Backend APIs & Services
+- Database-Driven Applications
+- Python Development
+- AI/ML Integration
+- Authentication & Authorization
+- API & Third-Party Integrations
+- Product-Oriented Development
 
 ---
 
@@ -51,88 +62,93 @@ Currently focused on strengthening my foundations in **Data Structures & Algorit
 ### Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
-
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
 </p>
 
 ### Frontend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js" />
-
 </p>
 
-### Backend & Databases
+### Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,mysql" />
-
+<img src="https://skillicons.dev/icons?i=fastapi,python" />
 </p>
 
-**Backend:** FastAPI • SQLAlchemy • JWT Authentication
+**Backend:** FastAPI • SQLAlchemy • JWT Authentication • REST APIs
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 **Database:** MySQL • MariaDB
 
 ### APIs & Mapping
 
-<p align="center">
+**Google Maps API** • **Leaflet** • **REST APIs**
 
-<img src="https://skillicons.dev/icons?i=googlemaps" />
-
-</p>
-
-Google Maps API • Leaflet • REST APIs
-
-### Development & Tooling
+### Development & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-Git • GitHub • VS Code • Postman • XAMPP
+**Tools:** Git • GitHub • VS Code • Postman • XAMPP
 
 ---
 
-## AI / ML EXPERTISE
+## AI / ML
 
-| Domain | Proficiency | Details |
+| Area | Level | Practical Work |
 |---|---|---|
-| Python | Intermediate | Application development, automation and backend logic |
-| Machine Learning | Learning | Recommendation systems and practical ML concepts |
-| Recommendation Systems | Learning | Implemented recommendation logic in ParkEase |
-| AI Engineering | Learning | Exploring practical AI/ML integration into applications |
+| Python | Intermediate | Application development and backend logic |
+| Machine Learning | Learning | Exploring practical ML concepts |
+| Recommendation Systems | Learning | Recommendation logic implemented in ParkEase |
+| AI Integration | Learning | Exploring AI/ML features for software applications |
 | Data Handling | Learning | Working with structured application and database data |
 
 ---
 
-## FEATURED PROJECTS
+# FEATURED PROJECTS
 
-<details>
-<summary><strong>01 — ParkEase | Smart Parking Management System</strong></summary>
+## 01 — ParkEase
 
-<br>
+### Smart Parking Management System
 
-A full-stack smart parking management platform designed to connect parking owners with customers and simplify parking discovery, booking and management.
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-Database-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/QR-Booking-7C3AED?style=flat-square"/>
+
+</p>
+
+**ParkEase** is a full-stack smart parking management platform designed to simplify parking discovery, availability management and booking.
+
+The platform supports separate workflows for **customers and parking owners**, combining web development, backend APIs, database management, authentication, mapping, QR workflows and recommendation logic.
 
 ### Architecture
 
-| Category | Implementation |
+| Layer | Technology |
 |---|---|
 | Frontend | React, Tailwind CSS, Vite |
 | Backend | FastAPI, SQLAlchemy |
 | Database | MariaDB / MySQL |
 | Authentication | JWT |
-| AI/ML | Python Recommendation Engine |
+| AI / ML | Python Recommendation Engine |
 | Maps | Google Maps API, Leaflet |
 | QR | QR Generation & Scanning |
-| Roles | Customer & Parking Owner |
+| Architecture | REST API |
+| User Roles | Customer & Parking Owner |
 
-### Core Features
+### Key Features
 
 - Customer and owner authentication
 - Role-based application flow
@@ -144,79 +160,111 @@ A full-stack smart parking management platform designed to connect parking owner
 - Location-based parking discovery
 - Recommendation engine
 - Google Maps integration
+- Leaflet-based mapping
 - REST API architecture
 - JWT-based authentication
 - MariaDB database integration
 
-### Engineering Focus
+### Engineering Highlights
 
-The project combines **frontend development, backend API design, relational databases, authentication, mapping services, QR workflows and recommendation logic** into one end-to-end application.
+**Frontend →** Responsive React-based application with role-specific dashboards.
 
-</details>
+**Backend →** FastAPI REST services with SQLAlchemy for database interaction.
 
-<br>
+**Security →** JWT-based authentication and protected application routes.
 
-<details>
-<summary><strong>02 — Das & Singh | Business Website</strong></summary>
+**Database →** Relational data model for users, parking locations, slots and bookings.
 
-<br>
+**AI/ML →** Recommendation logic for helping users discover suitable parking options.
 
-A professional business website designed with a modern web interface and responsive user experience.
+**Integration →** Mapping APIs and QR workflows integrated into the application.
 
-### Project Details
+### Repository
 
-| Category | Details |
+<a href="https://github.com/itsxprincee/ParkEase">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+## 02 — Das & Singh
+
+### Business Website
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Development-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive%20UI-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business%20Website-4C1D95?style=flat-square"/>
+
+</p>
+
+A professional business website developed to establish a modern digital presence with a responsive and user-friendly interface.
+
+### Project Focus
+
+- Responsive web design
+- Modern UI implementation
+- Business-oriented presentation
+- User-friendly navigation
+- Clean visual structure
+- Web deployment
+
+### Live Website
+
+<a href="https://www.stealdark.in/">
+<img src="https://img.shields.io/badge/Visit%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+### Repository
+
+<a href="https://github.com/itsxprincee/Das-and-Singh-Exports">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+# DEVELOPMENT EXPERIENCE
+
+My development experience is primarily built through **academic work, independent projects and hands-on software development**.
+
+Through these projects, I have worked across different parts of the development lifecycle — from frontend interfaces and API development to database integration, authentication and third-party services.
+
+### Areas of Practical Experience
+
+| Area | Experience |
 |---|---|
-| Type | Business Website |
-| Focus | UI / UX & Web Development |
-| Deployment | Live Website |
-| URL | https://www.stealdark.in/ |
-
-### Engineering Focus
-
-The project focuses on creating a clean business-facing web presence with an emphasis on **responsive design, modern UI, usability and professional presentation**.
-
-**Live Website:**  
-https://www.stealdark.in/
-
-</details>
+| Frontend | React, Tailwind CSS, Vite |
+| Backend | FastAPI, REST APIs, SQLAlchemy |
+| Database | MySQL, MariaDB |
+| Authentication | JWT |
+| APIs | REST APIs, Google Maps API |
+| Mapping | Google Maps, Leaflet |
+| QR Systems | Generation & Scanning |
+| AI / ML | Recommendation Logic |
+| Development | Git, GitHub, VS Code, Postman |
 
 ---
 
-## EXPERIENCE
-
-Currently building experience through **academic work, personal software projects and practical development**.
-
-My project work includes full-stack application development, REST APIs, database design, authentication, third-party API integration, mapping systems, QR workflows and practical AI/ML implementation.
-
-**Current Development Scope**
-
-- Full-stack web development
-- Backend API development
-- Database-driven applications
-- Python development
-- AI/ML experimentation
-- Product-oriented engineering
-- Git/GitHub workflows
-
----
-
-## CERTIFICATIONS
+# CERTIFICATIONS
 
 ### Simplilearn
 
-- **Introduction to HTML** — August 2026
-- **Introduction to Front End Development** — August 2026
+**Introduction to HTML**  
+August 2026
+
+**Introduction to Front End Development**  
+August 2026
 
 ---
 
-## GITHUB ANALYTICS
+# GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsxprincee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsxprincee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsxprincee&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=itsxprincee&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -230,7 +278,7 @@ My project work includes full-stack application development, REST APIs, database
 
 ---
 
-## GITHUB TROPHIES
+# GITHUB TROPHIES
 
 <div align="center">
 
@@ -240,7 +288,7 @@ My project work includes full-stack application development, REST APIs, database
 
 ---
 
-## CONTRIBUTION ACTIVITY
+# CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -250,7 +298,7 @@ My project work includes full-stack application development, REST APIs, database
 
 ---
 
-## CONTRIBUTION SNAKE
+# CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -260,29 +308,31 @@ My project work includes full-stack application development, REST APIs, database
 
 ---
 
-## CURRENT FOCUS
+# CURRENT FOCUS
 
 ```yaml
 Learning:
   - Data Structures & Algorithms
   - Python
-  - AI / Machine Learning
-  - Backend Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Engineering
   - System Design
   - Cybersecurity
 
 Building:
   - Full-Stack Applications
-  - AI/ML Features
   - Backend APIs
+  - AI/ML Features
+  - Database-Driven Systems
   - Real-World Software Projects
 
 Exploring:
   - Generative AI
-  - Machine Learning
   - Recommendation Systems
   - Cloud Technologies
   - Open Source
+  - Software Architecture
 
 Open To:
   - Software Development Internships

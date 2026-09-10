@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:7c3aed&height=230&section=header&text=PRINCE%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20BCA%20Student&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:7c3aed&height=220&section=header&text=PRINCE%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Developer;Full+Stack+Developer;Python+Developer;Backend+Developer;AI%2FML+Enthusiast;Building+Real-World+Applications;Learning+%7C+Building+%7C+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Python+Developer;Backend+Developer;React+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" />
 
 <br><br>
 
@@ -34,30 +34,27 @@
 
 ---
 
-## ABOUT
+## 👨‍💻 ABOUT ME
 
-I am a **BCA student and software developer** based in Bengaluru, India, focused on building practical and user-oriented software.
+I am a **BCA student and Full Stack Developer** based in Bengaluru, India.
 
-My main areas of interest include **full-stack development, backend engineering, Python, databases, AI/ML and product engineering**.
+I enjoy building practical web applications using **React, Python, FastAPI and SQL**.
 
-I enjoy taking ideas from concept to implementation — designing responsive interfaces, building REST APIs, working with databases, implementing authentication and integrating real-world services.
+My main interests are:
 
-Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Python, backend engineering, AI/ML, system design and cybersecurity** while building real-world projects.
-
-### What I Work On
-
-- Full-Stack Web Applications
-- Backend APIs & Services
-- Database-Driven Applications
+- Full Stack Development
+- Backend Development
 - Python Development
-- AI/ML Integration
-- Authentication & Authorization
-- API & Third-Party Integrations
-- Product-Oriented Development
+- REST APIs
+- Databases
+- AI/ML
+- Real-World Software Projects
+
+Currently, I am improving my skills in **Data Structures & Algorithms, Python, Backend Development and AI/ML** while building projects.
 
 ---
 
-## TECH STACK
+## 🛠️ TECH STACK
 
 ### Languages
 
@@ -68,7 +65,7 @@ Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Py
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### Backend
@@ -77,9 +74,9 @@ Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Py
 <img src="https://skillicons.dev/icons?i=fastapi,python" />
 </p>
 
-**Backend:** FastAPI • SQLAlchemy • JWT Authentication • REST APIs
+**Backend:** FastAPI • SQLAlchemy • REST APIs • JWT Authentication
 
-### Databases
+### Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -87,11 +84,7 @@ Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Py
 
 **Database:** MySQL • MariaDB
 
-### APIs & Mapping
-
-**Google Maps API** • **Leaflet** • **REST APIs**
-
-### Development & Tools
+### Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -99,21 +92,16 @@ Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Py
 
 **Tools:** Git • GitHub • VS Code • Postman • XAMPP
 
----
+### Other Technologies
 
-## AI / ML
-
-| Area | Level | Practical Work |
-|---|---|---|
-| Python | Intermediate | Application development and backend logic |
-| Machine Learning | Learning | Exploring practical ML concepts |
-| Recommendation Systems | Learning | Recommendation logic implemented in ParkEase |
-| AI Integration | Learning | Exploring AI/ML features for software applications |
-| Data Handling | Learning | Working with structured application and database data |
+- Google Maps API
+- Leaflet
+- QR Code Generation & Scanning
+- Chart.js
 
 ---
 
-# FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
 ## 01 — ParkEase
 
@@ -123,61 +111,43 @@ Currently, I am strengthening my knowledge of **Data Structures & Algorithms, Py
 
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-Database-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/QR-Booking-7C3AED?style=flat-square"/>
 
 </p>
 
-**ParkEase** is a full-stack smart parking management platform designed to simplify parking discovery, availability management and booking.
+**ParkEase** is a full-stack parking management platform that helps users discover available parking and book parking slots.
 
-The platform supports separate workflows for **customers and parking owners**, combining web development, backend APIs, database management, authentication, mapping, QR workflows and recommendation logic.
-
-### Architecture
-
-| Layer | Technology |
-|---|---|
-| Frontend | React, Tailwind CSS, Vite |
-| Backend | FastAPI, SQLAlchemy |
-| Database | MariaDB / MySQL |
-| Authentication | JWT |
-| AI / ML | Python Recommendation Engine |
-| Maps | Google Maps API, Leaflet |
-| QR | QR Generation & Scanning |
-| Architecture | REST API |
-| User Roles | Customer & Parking Owner |
+The project includes separate workflows for **customers and parking owners**.
 
 ### Key Features
 
-- Customer and owner authentication
-- Role-based application flow
-- Parking location creation and management
-- Parking slot availability management
+- User registration and login
+- Customer and owner roles
+- Parking listing and management
+- Parking slot availability
 - Parking booking system
+- Vehicle management
 - QR-based booking verification
-- Owner verification workflow
+- Owner verification
 - Location-based parking discovery
-- Recommendation engine
+- Recommendation system
 - Google Maps integration
-- Leaflet-based mapping
-- REST API architecture
-- JWT-based authentication
-- MariaDB database integration
+- Leaflet maps
+- REST APIs
+- JWT authentication
+- MariaDB/MySQL database
 
-### Engineering Highlights
+### Tech Used
 
-**Frontend →** Responsive React-based application with role-specific dashboards.
-
-**Backend →** FastAPI REST services with SQLAlchemy for database interaction.
-
-**Security →** JWT-based authentication and protected application routes.
-
-**Database →** Relational data model for users, parking locations, slots and bookings.
-
-**AI/ML →** Recommendation logic for helping users discover suitable parking options.
-
-**Integration →** Mapping APIs and QR workflows integrated into the application.
+**Frontend:** React • Tailwind CSS • Vite  
+**Backend:** FastAPI • Python • SQLAlchemy  
+**Database:** MariaDB / MySQL  
+**Authentication:** JWT  
+**Maps:** Google Maps • Leaflet  
+**QR:** QR Generation & Scanning
 
 ### Repository
 
@@ -187,33 +157,25 @@ The platform supports separate workflows for **customers and parking owners**, c
 
 ---
 
-## 02 — Das & Singh
+## 02 — Das & Singh Exports
 
 ### Business Website
 
-<p align="center">
+A responsive business website created to provide a modern online presence for **Das & Singh Exports**.
 
-<img src="https://img.shields.io/badge/Web%20Development-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Responsive%20UI-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business%20Website-4C1D95?style=flat-square"/>
+### Highlights
 
-</p>
-
-A professional business website developed to establish a modern digital presence with a responsive and user-friendly interface.
-
-### Project Focus
-
-- Responsive web design
-- Modern UI implementation
-- Business-oriented presentation
-- User-friendly navigation
-- Clean visual structure
-- Web deployment
+- Responsive design
+- Modern UI
+- Business-focused layout
+- Simple navigation
+- Mobile-friendly interface
+- Website deployment
 
 ### Live Website
 
 <a href="https://www.stealdark.in/">
-<img src="https://img.shields.io/badge/Visit%20Live%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 ### Repository
@@ -224,41 +186,16 @@ A professional business website developed to establish a modern digital presence
 
 ---
 
-# DEVELOPMENT EXPERIENCE
-
-My development experience is primarily built through **academic work, independent projects and hands-on software development**.
-
-Through these projects, I have worked across different parts of the development lifecycle — from frontend interfaces and API development to database integration, authentication and third-party services.
-
-### Areas of Practical Experience
-
-| Area | Experience |
-|---|---|
-| Frontend | React, Tailwind CSS, Vite |
-| Backend | FastAPI, REST APIs, SQLAlchemy |
-| Database | MySQL, MariaDB |
-| Authentication | JWT |
-| APIs | REST APIs, Google Maps API |
-| Mapping | Google Maps, Leaflet |
-| QR Systems | Generation & Scanning |
-| AI / ML | Recommendation Logic |
-| Development | Git, GitHub, VS Code, Postman |
-
----
-
-# CERTIFICATIONS
+# 📜 CERTIFICATIONS
 
 ### Simplilearn
 
-**Introduction to HTML**  
-August 2026
-
-**Introduction to Front End Development**  
-August 2026
+- **Introduction to HTML** — August 2026
+- **Introduction to Front End Development** — August 2026
 
 ---
 
-# GITHUB ANALYTICS
+# 📊 GITHUB STATS
 
 <div align="center">
 
@@ -272,33 +209,13 @@ August 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxprincee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsxprincee&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
 ---
 
-# GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=itsxprincee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
-
-</div>
-
----
-
-# CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsxprincee&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -308,35 +225,21 @@ August 2026
 
 ---
 
-# CURRENT FOCUS
+# 🎯 CURRENT FOCUS
 
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Python
-  - Artificial Intelligence
-  - Machine Learning
-  - Backend Engineering
-  - System Design
-  - Cybersecurity
+- Data Structures & Algorithms
+- Python
+- Backend Development
+- AI/ML
+- Building Full Stack Projects
+- Improving Problem Solving
 
-Building:
-  - Full-Stack Applications
-  - Backend APIs
-  - AI/ML Features
-  - Database-Driven Systems
-  - Real-World Software Projects
+---
 
-Exploring:
-  - Generative AI
-  - Recommendation Systems
-  - Cloud Technologies
-  - Open Source
-  - Software Architecture
+<div align="center">
 
-Open To:
-  - Software Development Internships
-  - Full Stack Opportunities
-  - Backend Development
-  - AI/ML Opportunities
-  - Product Engineering
+### 💜 Thanks for visiting my profile!
+
+**Learning • Building • Improving**
+
+</div>

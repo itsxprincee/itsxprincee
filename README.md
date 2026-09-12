@@ -219,7 +219,7 @@ A responsive business website created to provide a modern online presence for **
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itsxprincee/itsxprincee/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/itsxprincee/itsxprincee/output/github-contribution-grid-snake.svg" width="95%"/>
 
 </div>
 
